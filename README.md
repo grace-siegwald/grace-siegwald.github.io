@@ -1,4 +1,4 @@
-# Programming Portfolio
+# Grace Siegwald - ***Programming Portfolio***
 ## Experience :books:
 > Columbia College Chicago: Programming 101
 > - *Proficient in C#*
@@ -39,20 +39,20 @@
 > 	```
 
 
-> **Simple Cipher**
+> **Simple Cipher** :abacus:
 >  - A substitution cipher that encodes a string of the user's choice
 >
 > 		![SubstitutionCipherScreenshot](https://github.com/user-attachments/assets/e2ca7e2d-3cef-4f29-b762-b9d52060bb6c)
 
 
 ### C# WPF Applications
-> **Pet Bear Game**
+> **Pet Bear Game** :joystick:
 >	- A minigame where you "pat" a teddy bear. The more pats you give, the more upgrades you can buy!
 >
 >   	![PetBearScreenshot](https://github.com/user-attachments/assets/0ef897a3-d1e9-4fd4-9356-2055e6dd9191)
 
 
-> **Weather Reader**
+> **Weather Reader** :partly_sunny:
 > - A simple application that tells you the weather from the OpenWeatherMap.com API...
 >
 > 	![WeatherDataScreenshot](https://github.com/user-attachments/assets/26f1a9cd-fd44-4b40-bd19-36ad8b34a2ce)

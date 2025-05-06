@@ -3,7 +3,7 @@
 > Columbia College Chicago: Programming 101
 > - *Proficient in C#*
 
-
+ 
 ## Works 
 ### C# Console Applications 
 
@@ -13,12 +13,18 @@
 > 
 > 	![AdventureGameScreenshot](https://github.com/user-attachments/assets/d300d6b3-3a2f-469f-a581-3800429d9e83)
 
+> **Adopt A Fish**
+>
+>  - An application where users can navigate an intuitive text-based interface to adopt a variety of randomized fish.
+>
+>    ![Screenshot 2025-05-05 201417](https://github.com/user-attachments/assets/32ff65ad-2b3b-4738-b951-02577a794489)
+
 
 > **Cumulative Verse Song** 
 > - An application that efficiently prints the lyrics of "The 12 Days of Christmas" using nested loops.
 > 
 > 	![CumulativeVerseSong](https://github.com/user-attachments/assets/0de43fb8-3ee2-4cd4-9e96-77a079b6de32)
-> - Additionally, the application it plays a short gingle upon startup...
+> - Additionally, the application plays a short gingle upon startup...
 > 	```
 > 	public void PlayNote(int frequency, int duration)
 > 	{
@@ -40,9 +46,9 @@
 
 
 > **Simple Cipher** 
->  - A substitution cipher that encodes a string of the user's choice
+>  - An application that uses a substitution cipher to encode a string of the user's choice.
 >
-> 		![SubstitutionCipherScreenshot](https://github.com/user-attachments/assets/e2ca7e2d-3cef-4f29-b762-b9d52060bb6c)
+> 	  ![SubstitutionCipherScreenshot](https://github.com/user-attachments/assets/e2ca7e2d-3cef-4f29-b762-b9d52060bb6c)
 
 
 ### C# WPF Applications
@@ -53,6 +59,6 @@
 
 
 > **Weather Reader** 
-> - A simple application that tells you the weather from the OpenWeatherMap.com API...
+> - An application that tells users the weather from the OpenWeatherMap.com API...
 >
 > 	![WeatherDataScreenshot](https://github.com/user-attachments/assets/26f1a9cd-fd44-4b40-bd19-36ad8b34a2ce)

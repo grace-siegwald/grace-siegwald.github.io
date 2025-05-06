@@ -53,12 +53,12 @@
 
 ### C# WPF Applications
 > **Pet Bear Game** 
->	- A minigame where you "pat" a teddy bear. The more pats you give, the more upgrades you can buy!
+>  - A minigame where you "pat" a teddy bear. The more pats you give, the more upgrades you can buy!
 >
->   	![PetBearScreenshot](https://github.com/user-attachments/assets/0ef897a3-d1e9-4fd4-9356-2055e6dd9191)
+> 	  ![PetBearScreenshot](https://github.com/user-attachments/assets/0ef897a3-d1e9-4fd4-9356-2055e6dd9191)
 
 
 > **Weather Reader** 
-> - An application that tells users the weather from the OpenWeatherMap.com API...
+>  - An application that tells users the weather from the OpenWeatherMap.com API...
 >
-> 	![WeatherDataScreenshot](https://github.com/user-attachments/assets/26f1a9cd-fd44-4b40-bd19-36ad8b34a2ce)
+> 	  ![WeatherDataScreenshot](https://github.com/user-attachments/assets/26f1a9cd-fd44-4b40-bd19-36ad8b34a2ce)
